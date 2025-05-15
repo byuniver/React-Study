@@ -11,6 +11,7 @@
 // console.log(returnTrue() && returnFalse());
 
 // 단락 평가 활용 사례
+
 function printName(person) {
   //   if (!person) {
   //     console.log("person에 값이 없음");
