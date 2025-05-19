@@ -35,6 +35,7 @@ console.log(objectArr.indexOf({ name: "홍길동" }));
 console.log(objectArr.findIndex((item) => item.name === "홍길동"));
 
 // 4. findIndex
+
 // 모든 요소를 순회하면서, 콜백함수를 만족하는
 // 특정 요소의 인덱스(위치)를 반환하는 메서드
 let arr4 = [1, 2, 3];
