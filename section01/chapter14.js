@@ -9,7 +9,8 @@ function funcA() {
   let b = 2; // 지역 스코프
   console.log(a);
   function funcB() {
-    // 함수 안에서의 함수만 지역스코프 / 조건, 반복문에서는 전역
+    // 함수 안에서의 함수만 지역스코프
+    // 조건, 반복문에서는 전역
   }
 }
 
