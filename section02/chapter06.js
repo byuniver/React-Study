@@ -43,6 +43,7 @@ for (let value of values) {
 }
 
 // 2.3 for in
+
 for (let key in person) {
   const value = person[key];
   console.log(key, value);
